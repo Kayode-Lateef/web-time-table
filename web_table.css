@@ -43,18 +43,6 @@ td {
     background-color: #ffffff;
 }
  
-#box1 {
-    color: cornflowerblue;
-    font-family: sans-serif;
-    font-weight: 800;
-}
- 
-#box2 {
-    color: darkorange;
-    font-weight: 800;
-    font-family: sans-serif;
-}
- 
 #box3 {
     color: darkviolet;
     font-weight: 800;
@@ -73,18 +61,11 @@ td {
     font-weight: 800;
 }
  
-#box6 {
-    color: hotpink;
-    font-weight: 800;
-    font-family: sans-serif;
-}
- 
 #box7 {
     color: blue;
     font-family: sans-serif;
     font-weight: 800;
 }
-
 
 footer{
     text-align: center;
